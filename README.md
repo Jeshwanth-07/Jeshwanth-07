@@ -9,7 +9,7 @@ If data is involved, chances are I'll find a way to clean it, model it.
 
 My main tech stack is Python, SQL, PL/SQL, and IICS (Informatica Intelligent Cloud Services).
 
-I've got a bunch of pinned projects, but my favorite is the [sql-banking-warehouse](https://github.com/Jeshwanth-07/sql-banking-data-warehouse/tree/main).
+I've got a bunch of pinned projects, but my favorite is the [pl-sql-banking-warehouse](https://github.com/Jeshwanth-07/pl-sql-banking-datawarehouse).
 
 I started from an ECE background, but found my love for DBMS and data in my 2nd year — and never looked back.
 
