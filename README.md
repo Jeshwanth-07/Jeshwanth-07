@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Jeshwanth-07/Jeshwanth-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey there! 🤙
 
-Here are some ideas to get you started:
+I'm [Jeshwanth](https://github.com/Jeshwanth-07), an aspiring data engineer student based in India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I learn and build data pipelines, warehouses, and whatever messy data problem I can get my hands on.
+
+If data is involved, chances are I'll find a way to clean it, model it.
+
+My main tech stack is Python, SQL, PL/SQL, and IICS (Informatica Intelligent Cloud Services).
+
+I've got a bunch of pinned projects, but my favorite is the [sql-banking-warehouse](https://github.com/Jeshwanth-07/sql-banking-data-warehouse/tree/main).
+
+I started from an ECE background, but found my love for DBMS and data in my 2nd year — and never looked back.
+
+**Fun Facts:**
+
+- Coffee or tea? Both work when there's a schema to design 😄
+- I genuinely enjoy debugging SQL queries others gave up on
+- ECE → Data Engineering pipeline (no regrets)
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
+![IICS](https://img.shields.io/badge/IICS-FF4500?style=flat&logoColor=white)
